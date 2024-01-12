@@ -1,6 +1,8 @@
 # Google Developer Student Club (GDSC) - IITH
 
-Welcome to the official repository of the Google Developer Student Club at Indian Institute of Technology, Hyderabad!
+Welcome to the official repository of the Google Developer Student Club at Indian Institute of Technology, Hyderabad! 
+
+Find us on google community [here](https://gdsc.community.dev/indian-institute-of-technology-hyderabad/)
 
 ![GDSC Logo](https://marketplace.adhitht.me/uploads/emailheader.jpeg)
 
